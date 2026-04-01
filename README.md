@@ -10,4 +10,18 @@ Topics Learned:
 Tools Used:
 Python
 NumPy
-VS Code
+colab
+
+Day 2 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Pandas basics
+- DataFrame
+- Loading CSV datasets
+- Dataset information
+- Handling missing values
+
+Tools Used:
+Python
+Pandas
+colab
