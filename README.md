@@ -57,3 +57,18 @@ Python
 Pandas
 Seaborn
 Matplotlib
+
+Day 5 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Supervised Learning
+- Linear Regression
+- Building ML model
+- Prediction
+- Visualization of regression line
+
+Tools Used:
+Python
+Scikit-learn
+Pandas
+Matplotlib
