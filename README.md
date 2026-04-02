@@ -25,3 +25,35 @@ Tools Used:
 Python
 Pandas
 colab
+
+Day 3 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Data Visualization
+- Matplotlib
+- Seaborn
+- Line Chart
+- Bar Chart
+- Histogram
+- Scatter Plot
+
+Tools Used:
+Python
+Matplotlib
+Seaborn
+VS Code
+
+Day 4 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Exploratory Data Analysis (EDA)
+- Dataset exploration
+- Missing values detection
+- Correlation analysis
+- Heatmap visualization
+
+Tools Used:
+Python
+Pandas
+Seaborn
+Matplotlib
