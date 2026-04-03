@@ -40,8 +40,7 @@ Topics Learned:
 Tools Used:
 Python
 Matplotlib
-Seaborn
-VS Code
+colab
 
 Day 4 of my Machine Learning Journey 🚀
 
@@ -72,3 +71,30 @@ Python
 Scikit-learn
 Pandas
 Matplotlib
+
+Day 6 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Classification
+- Logistic Regression
+- Prediction
+- Accuracy score
+
+Tools Used:
+Python
+Scikit-learn
+Pandas
+
+Day 7 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Model Evaluation
+- Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+Tools Used:
+Python
+Scikit-learn
