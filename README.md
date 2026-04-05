@@ -98,3 +98,28 @@ Topics Learned:
 Tools Used:
 Python
 Scikit-learn
+
+Day 8 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- K-Nearest Neighbors (KNN)
+- Distance-based algorithms
+- Classification using neighbors
+- Model prediction
+
+Tools Used:
+Python
+Scikit-learn
+Pandas
+Day 9 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Decision Tree algorithm
+- Tree-based models
+- Classification using decision rules
+- Prediction using ML model
+
+Tools Used:
+Python
+Scikit-learn
+Pandas
