@@ -123,3 +123,16 @@ Tools Used:
 Python
 Scikit-learn
 Pandas
+Day 10 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Random Forest
+- Ensemble Learning
+- Tree-based models
+- Model prediction
+
+Tools Used:
+Python
+Scikit-learn
+Pandas
+
