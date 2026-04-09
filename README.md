@@ -136,3 +136,16 @@ Python
 Scikit-learn
 Pandas
 
+Day 11 of my Machine Learning Journey 🚀
+
+Topics Learned:
+- Support Vector Machine (SVM)
+- Hyperplane concept
+- Classification model
+- Prediction using ML
+
+Tools Used:
+Python
+Scikit-learn
+Pandas
+
